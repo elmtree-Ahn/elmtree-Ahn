@@ -8,5 +8,5 @@
 </br></br>
 #### Contact
 &nbsp;&nbsp;📨&nbsp;&nbsp;Email : clfclf3138@gmail.com</br>
-&nbsp;&nbsp;🙋‍♂️&nbsp;Resume : [About Me](https://fantasy-lemongrass-34a.notion.site/Luffy-8856a66c9abb481eb4e68b474ee46cf4)</br>
+&nbsp;&nbsp;🙋‍♂️&nbsp;Resume : [About Me](https://fantasy-lemongrass-34a.notion.site/f7492ca3ec7b4d739b256226dda398a1)</br>
 &nbsp;&nbsp;📝&nbsp;&nbsp;Blog : [My note](https://fantasy-lemongrass-34a.notion.site/16cbdf3335844c228d1dee436a3fc73f)
