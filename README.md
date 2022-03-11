@@ -9,7 +9,17 @@
 - 새벽 3시부터 시작하는 성장지향 `데일리 루틴`을 지킵니다. [(살펴보기)](https://www.notion.so/d903a27dce7b4620a55a5434bdb2cd89)
 - 무엇보다 꾸준함의 가치를 알기에 `1일 1커밋` 운동을 하고 있습니다.
 - 싱거운듯 하면서 맛있는 `삼삼한 인생`을 지향합니다.
-- 
+
+
+#### 🔨 **Skill Set & Tools**
+**Front-end**
+`HTML5` `CSS3` `Javascript(ES6)` 
+`React.js` `Redux` `Styled-component` 
+`tailwind.css`  `graphQL` `AWS S3`
+
+**Tools** 
+`Git` `Github` `Slack` `VSCode` `Notion` `Figma`
+
 
 #### Contact
 `BirthDay` | 1990.06.09
